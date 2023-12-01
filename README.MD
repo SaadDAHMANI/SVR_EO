@@ -5,4 +5,6 @@
 ## Acces to SVR-EO
 You can find the code of [SVR-EO](https://github.com/SaadDAHMANI/SVR_EO/tree/main/matlab) inside the folder (./matlab).
 
+## How to run SVR-EO?
 
+Run the file "./matlab/**main_SVR_EO.m**) inside Matlab or Octave environment.  
